@@ -1,1 +1,1 @@
-## Comprehensive package for Formulating Portfolio Optimization functionsss
+## Comprehensive package for Formulating Portfolio Optimization function

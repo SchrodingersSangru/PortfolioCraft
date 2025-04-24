@@ -7,7 +7,7 @@ authors = [
 ]
 readme = "README.md"
 license = { file = "LICENSE" }
-dependencies = []
+dependencies = ["docplex==2.29.241", "numpy==2.2.5", "qiskit_optimization==0.6.1"]
 
 [build-system]
 requires = ["setuptools", "wheel"]
