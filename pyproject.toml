@@ -1,0 +1,14 @@
+[project]
+name = "portfoliocraft"
+version = "0.1.0"
+description = "Comprehensive package for Formulating Portfolio Optimization function"
+authors = [
+    { name = "Sangram Deshpande", email = "deshpande.sangram156@gmail.com" }
+]
+readme = "README.md"
+license = { file = "LICENSE" }
+dependencies = []
+
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
